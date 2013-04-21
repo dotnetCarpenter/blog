@@ -1,4 +1,4 @@
 blog
 ====
 
-So far this repo only contains files that I want to share with readers of my blog http://francesrojoenelfuego.blogspot.com/
+Icon files used in http://francesrojoenelfuego.blogspot.se/2013/04/installing-2-versions-of-firefox-on-os-x.html
